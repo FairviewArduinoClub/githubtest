@@ -1,3 +1,3 @@
 /*
-Wes
+Wes Ruder
 */
